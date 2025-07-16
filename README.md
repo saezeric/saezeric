@@ -69,10 +69,10 @@ Soy un desarrollador web con más de X años de experiencia, especializado en Wo
 
 ### 🧩 Componentes UI
 <div align="center">
-  <img src="https://img.shields.io/badge/Shadcn-UI?style=for-the-badge" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Launch%20UI-Componentes?style=for-the-badge" alt="Launch UI" />
-  <img src="https://img.shields.io/badge/Material%20UI-Componentes-0081CB?logo=material-ui&style=for-the-badge" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Flowbite-Tailwind?logo=flowbite&style=for-the-badge" alt="Flowbite" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-Componentes-000000?logo=shadcn&style=for-the-badge" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Launch_UI-Componentes-000000?logo=launchpad&style=for-the-badge" alt="Launch UI" />
+  <img src="https://img.shields.io/badge/Material_UI-Componentes-0081CB?logo=material-ui&style=for-the-badge" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Flowbite-Tailwind-38B2AC?logo=flowbite&style=for-the-badge" alt="Flowbite" />
 </div>
 
 ---
