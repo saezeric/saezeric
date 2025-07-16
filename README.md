@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/banner.png" alt="Banner" />
+  <img src="/Images/banner.png" alt="Banner" />
 
   # ¡Hola! Soy Eric Saez Escalona 👋
   <p>🖥️ Desarrollador Web Full-Stack | 🚀 Apasionado por tecnologías modernas y diseños impecables</p>
