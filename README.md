@@ -16,11 +16,19 @@
 
 ## 🔍 Sobre mí
 
-Soy un desarrollador web con más de X años de experiencia, especializado en WordPress, JavaScript y frameworks de última generación. Me encanta optimizar la experiencia de usuario, escribir código limpio y mantener un flujo de trabajo ágil.
+¡Hola! Soy **Eric Saez Escalona**, tengo 20 años y resido actualmente en Barcelona. Soy especialista en **Inteligencia Artificial**, **Desarrollador Web** y **Diseñador de Aplicaciones Web** con **WordPress**. Apasionado de la tecnología con ganas de comerse el mundo, he creado soluciones digitales innovadoras ofreciendo experiencias de usuario excepcionales y construyendo proyectos que marcan la diferencia en desarrollo y diseño.
 
-- 🎓 **Formación**: Ingeniería Informática / Bootcamp Desarrollo Web
-- 🌱 **Actualmente**: Profundizando en Next.js, GraphQL y Headless CMS
-- 💬 **Intereses**: UX/UI, performance web, accesibilidad y DevOps
+- 🎓 **Formación**:
+  - Técnico en Desarrollo de Aplicaciones Web
+  - Especialista en Inteligencia Artificial
+  - Técnico en Sistemas Microinformáticos y Redes
+- 💼 **Experiencia Laboral**:
+  - Diseñador y desarrollador web en una empresa del sector durante 8 meses
+  - Técnico en equipos informáticos (hardware y software) durante 6 meses
+- 🌱 **Actualmente**:
+  - Continuando mi formación con **React**
+  - Profundizando al maximo en el sector del **SEO**
+- 💬 **Intereses**: Redes sociales, Inteligencia Artificial, desarrollo web, SEO y marketing digital
 
 ---
 
