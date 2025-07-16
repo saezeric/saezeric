@@ -111,9 +111,3 @@
 </div>
 
 ---
-
-> "La simplicidad es la máxima sofisticación." – Leonardo da Vinci
-
-<div align="center">
-  ¡Gracias por pasar por aquí! 🚀
-</div>
