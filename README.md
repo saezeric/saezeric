@@ -3,9 +3,8 @@
   Diseño estético y profesional en Markdown
 -->
 
-# ¡Hola! Soy Eric Saez Escalona 👋
-
 <div align="center">
+  <h1>¡Hola! Soy Eric Saez Escalona 👋</h1>
   <p>🖥️ Desarrollador Web Full-Stack | 🚀 Apasionado por tecnologías modernas y diseños impecables</p>
 
   [🌐 Visita mi Portafolio Web](https://ericsaezescalona.w3bcn.es) • [📧 Contáctame](mailto:saezescalonaeric@gmail.com)
