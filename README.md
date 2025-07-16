@@ -4,12 +4,12 @@
 -->
 
 <div align="center">
-  <img src="/Images/banner.png" alt="Banner" />
-
   # ¡Hola! Soy Eric Saez Escalona 👋
   <p>🖥️ Desarrollador Web Full-Stack | 🚀 Apasionado por tecnologías modernas y diseños impecables</p>
 
   [🌐 Visita mi Portafolio Web](https://ericsaezescalona.w3bcn.es) • [📧 Contáctame](mailto:saezescalonaeric@gmail.com)
+  
+  <img src="/Images/banner.png" alt="Banner" />
 </div>
 
 ---
