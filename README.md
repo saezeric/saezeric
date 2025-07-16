@@ -29,7 +29,7 @@ Soy un desarrollador web con más de X años de experiencia, especializado en Wo
 ### 🧩 WordPress
 <div align="center">
   <img src="https://img.shields.io/badge/Lottie-Animation_Player-1CB3FF?logo=lottiefiles&logoColor=white&style=for-the-badge" alt="Lottie" />
-  <img src="https://img.shields.io/badge/WooCommerce-E-Commerce-96588A?logo=woocommerce&logoColor=white&style=for-the-badge" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/WooCommerce-Extensiones-995ad0?logo=woocommerce&style=for-the-badge" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/Elementor-Pro_Website_Builder-92003B?logo=elementor&logoColor=white&style=for-the-badge" alt="Elementor Pro" />
   <img src="https://img.shields.io/badge/ACF-Custom_Fields-00A3FF?logo=wordpress&logoColor=white&style=for-the-badge" alt="ACF" />
   <img src="https://img.shields.io/badge/CPT-Custom_Post_Types-FF6D00?logo=wordpress&logoColor=white&style=for-the-badge" alt="Custom Post Types" />
